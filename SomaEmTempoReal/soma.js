@@ -21,4 +21,4 @@ function limpa() {
 }
 
 //esse comando dispara o conteúdo do input sem precisar do botão
-//document.addEventListener("input", calcula);
+document.addEventListener("input", calcula);
