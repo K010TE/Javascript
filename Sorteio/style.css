@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(214, 202, 202);
+  margin: 0px;
+  text-align: center;
+}
+
+/* 
+  .quadrado {
+    width: 8cm;
+    height: 5cm;
+    display: flexbox;
+    text-align: center;
+    background-color: rgb(14, 119, 84);
+    position: relative;
+  }
+  
+  .corpo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: table-cell;
+    align-items: center;
+    text-align: center;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+  }
+  */
